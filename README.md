@@ -1,4 +1,4 @@
-Todos los siguientes modelos estan implementados en tensorflow 1.x, agradecimiento a los autores de IRGAN por liberar sus implementaciones.
+Todos los siguientes modelos estan implementados en tensorflow 1.x, agradecimiento a los autores de IRGAN por liberar sus implementaciones. Cada uno de ellos, excepto (DVBPR), son ejecutables en un entorno gratuito de Colab en menos de 1 hora.
 
 Datos utilizados:
 
